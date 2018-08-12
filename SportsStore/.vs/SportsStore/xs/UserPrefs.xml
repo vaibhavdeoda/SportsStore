@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1281E827-67E6-4EC9-8B2B-BB10C647A9D1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SportsStore/Startup.cs">
+    <Files>
+      <File FileName="SportsStore/Startup.cs" Line="35" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SportsStore PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>
