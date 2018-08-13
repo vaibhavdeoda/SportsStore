@@ -21,3 +21,5 @@
 /Users/vaibhavdeoda/Projects/SportsStore/SportsStore/SportsStore/obj/Debug/netcoreapp2.1/SportsStore.RazorTargetAssemblyInfo.cs
 /Users/vaibhavdeoda/Projects/SportsStore/SportsStore/SportsStore/obj/Debug/netcoreapp2.1/SportsStore.Views.pdb
 /Users/vaibhavdeoda/Projects/SportsStore/SportsStore/SportsStore/obj/Debug/netcoreapp2.1/SportsStore.csproj.CopyComplete
+/Users/vaibhavdeoda/Projects/SportsStore/SportsStore/SportsStore/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/vaibhavdeoda/Projects/SportsStore/SportsStore/SportsStore/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs

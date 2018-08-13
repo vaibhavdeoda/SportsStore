@@ -1,11 +1,9 @@
 ﻿<Properties StartupConfiguration="{1281E827-67E6-4EC9-8B2B-BB10C647A9D1}|Default">
-  <MonoDevelop.Ide.ItemProperties.SportsStore.Tests FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SportsStore.Tests/UnitTest1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SportsStore/Controllers/ProductController.cs">
     <Files>
-      <File FileName="SportsStore/Startup.cs" Line="31" Column="1" />
-      <File FileName="SportsStore/Program.cs" Line="24" Column="2" />
-      <File FileName="SportsStore/Views/_ViewImports.cshtml" Line="3" Column="1" />
-      <File FileName="SportsStore.Tests/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="SportsStore/Models/ProductsListViewModel.cs" Line="10" Column="1" />
+      <File FileName="SportsStore/Views/Product/List.cshtml" Line="8" Column="9" />
+      <File FileName="SportsStore/Controllers/ProductController.cs" Line="13" Column="46" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
