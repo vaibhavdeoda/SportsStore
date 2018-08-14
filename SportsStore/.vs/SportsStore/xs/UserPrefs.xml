@@ -1,18 +1,49 @@
 ﻿<Properties StartupConfiguration="{1281E827-67E6-4EC9-8B2B-BB10C647A9D1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SportsStore/Models/SeedData.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SportsStore/Startup.cs">
     <Files>
-      <File FileName="SportsStore/Models/ProductsListViewModel.cs" Line="11" Column="1" />
-      <File FileName="SportsStore/Views/Product/List.cshtml" Line="8" Column="9" />
-      <File FileName="SportsStore/Controllers/ProductController.cs" Line="16" Column="1" />
-      <File FileName="SportsStore/Models/ApplicationDbContext.cs" Line="17" Column="1" />
-      <File FileName="SportsStore/Models/EFProductRepository.cs" Line="5" Column="58" />
-      <File FileName="SportsStore/Properties/launchSettings.json" Line="26" Column="4" />
-      <File FileName="SportsStore/appsettings.json" Line="7" Column="2" />
-      <File FileName="SportsStore/Startup.cs" Line="26" Column="1" />
-      <File FileName="SportsStore/Program.cs" Line="27" Column="1" />
-      <File FileName="SportsStore/Migrations/20180814032310_Initial.cs" Line="33" Column="1" />
-      <File FileName="SportsStore/Models/SeedData.cs" Line="1" Column="1" />
+      <File FileName="SportsStore/Models/IProductRepository.cs" Line="1" Column="1" />
+      <File FileName="SportsStore/Controllers/ProductController.cs" Line="28" Column="6" />
+      <File FileName="SportsStore.Tests/ProductControllerTests.cs" Line="43" Column="1" />
+      <File FileName="SportsStore/Views/Product/List.cshtml" Line="11" Column="54" />
+      <File FileName="SportsStore/Models/ViewModels/PagingInfo.cs" Line="13" Column="1" />
+      <File FileName="SportsStore/Views/_ViewImports.cshtml" Line="5" Column="1" />
+      <File FileName="SportsStore/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="SportsStore/Models/ViewModels/ProductsListViewModel.cs" Line="12" Column="1" />
+      <File FileName="SportsStore/Startup.cs" Line="36" Column="13" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SportsStore" expanded="True">
+            <Node name="SportsStore" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Infrastructure" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ViewModels" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Product" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+            <Node name="SportsStore.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SportsStore" expanded="True">
+            <Node name="SportsStore.Tests" expanded="True">
+              <Node name="SportsStore" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="ProductControllerTests" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
