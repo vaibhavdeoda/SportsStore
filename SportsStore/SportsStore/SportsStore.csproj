@@ -15,12 +15,18 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="2.1.1" />
   </ItemGroup>
 
   <ItemGroup>
     <Content Remove="Views\Product\List.cshtml" />
+    <Content Remove="Properties\appsettings.config" />
+    <Content Remove="appsettings.json" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Views\Product\List.cshtml" />
+    <None Include="appsettings.json" />
   </ItemGroup>
 </Project>
