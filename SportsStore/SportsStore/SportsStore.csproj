@@ -26,6 +26,7 @@
     <Content Remove="Views\Product\List.cshtml" />
     <Content Remove="Properties\appsettings.config" />
     <Content Remove="appsettings.json" />
+    <Content Remove="bower.json" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Views\Product\List.cshtml" />

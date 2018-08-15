@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{95991E90-F643-4E2F-867A-ECE584A96657}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Product/List.cshtml">
+    <Files>
+      <File FileName="Views/Product/List.cshtml" Line="12" Column="1" />
+      <File FileName="Infrastructure/PageLinkTagHelper.cs" Line="45" Column="1" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="20" Column="23" />
+      <File FileName="Views/Shared/ProductSummary.cshtml" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SportsStore PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

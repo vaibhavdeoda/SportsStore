@@ -2,48 +2,15 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="SportsStore/Startup.cs">
     <Files>
       <File FileName="SportsStore/Models/IProductRepository.cs" Line="1" Column="1" />
-      <File FileName="SportsStore/Controllers/ProductController.cs" Line="28" Column="6" />
+      <File FileName="SportsStore/Controllers/ProductController.cs" Line="29" Column="2" />
       <File FileName="SportsStore.Tests/ProductControllerTests.cs" Line="43" Column="1" />
-      <File FileName="SportsStore/Views/Product/List.cshtml" Line="11" Column="54" />
+      <File FileName="SportsStore/Views/Product/List.cshtml" Line="11" Column="7" />
       <File FileName="SportsStore/Models/ViewModels/PagingInfo.cs" Line="13" Column="1" />
       <File FileName="SportsStore/Views/_ViewImports.cshtml" Line="5" Column="1" />
       <File FileName="SportsStore/Views/_ViewStart.cshtml" Line="1" Column="1" />
       <File FileName="SportsStore/Models/ViewModels/ProductsListViewModel.cs" Line="12" Column="1" />
-      <File FileName="SportsStore/Startup.cs" Line="36" Column="13" />
+      <File FileName="SportsStore/Startup.cs" Line="48" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="SportsStore" expanded="True">
-            <Node name="SportsStore" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Infrastructure" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="ViewModels" expanded="True" />
-              </Node>
-              <Node name="Views" expanded="True">
-                <Node name="Product" expanded="True" />
-              </Node>
-              <Node name="Startup.cs" selected="True" />
-            </Node>
-            <Node name="SportsStore.Tests" expanded="True" />
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="SportsStore" expanded="True">
-            <Node name="SportsStore.Tests" expanded="True">
-              <Node name="SportsStore" expanded="True">
-                <Node name="Tests" expanded="True">
-                  <Node name="ProductControllerTests" selected="True" />
-                </Node>
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
