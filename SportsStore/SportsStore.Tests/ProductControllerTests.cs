@@ -29,7 +29,7 @@ namespace SportsStore.Tests
 
             //Act
             ProductsListViewModel result =
-                controller.List(2).ViewData.Model as ProductsListViewModel;
+                controller.List(null,2).ViewData.Model as ProductsListViewModel;
 
             //Assert
             Product[] prodArray = result.Products.ToArray();

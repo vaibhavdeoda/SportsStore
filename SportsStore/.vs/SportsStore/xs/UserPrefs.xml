@@ -1,16 +1,19 @@
 ﻿<Properties StartupConfiguration="{1281E827-67E6-4EC9-8B2B-BB10C647A9D1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SportsStore/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SportsStore/Views/Product/List.cshtml">
     <Files>
-      <File FileName="SportsStore/Models/IProductRepository.cs" Line="1" Column="1" />
-      <File FileName="SportsStore/Controllers/ProductController.cs" Line="29" Column="2" />
-      <File FileName="SportsStore.Tests/ProductControllerTests.cs" Line="43" Column="1" />
+      <File FileName="SportsStore/Startup.cs" Line="42" Column="39" />
+      <File FileName="SportsStore/Infrastructure/PageLinkTagHelper.cs" Line="42" Column="86" />
       <File FileName="SportsStore/Views/Product/List.cshtml" Line="11" Column="7" />
-      <File FileName="SportsStore/Models/ViewModels/PagingInfo.cs" Line="13" Column="1" />
-      <File FileName="SportsStore/Views/_ViewImports.cshtml" Line="5" Column="1" />
-      <File FileName="SportsStore/Views/_ViewStart.cshtml" Line="1" Column="1" />
-      <File FileName="SportsStore/Models/ViewModels/ProductsListViewModel.cs" Line="12" Column="1" />
-      <File FileName="SportsStore/Startup.cs" Line="48" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SportsStore" expanded="True">
+            <Node name="SportsStore.Tests" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
