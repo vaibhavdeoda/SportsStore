@@ -23,3 +23,5 @@
 /Users/vaibhavdeoda/Projects/SportsStore/SportsStore/SportsStore/obj/Debug/netcoreapp2.1/SportsStore.dll
 /Users/vaibhavdeoda/Projects/SportsStore/SportsStore/SportsStore/obj/Debug/netcoreapp2.1/SportsStore.pdb
 /Users/vaibhavdeoda/Projects/SportsStore/SportsStore/SportsStore/obj/Debug/netcoreapp2.1/SportsStore.csproj.CopyComplete
+/Users/vaibhavdeoda/Projects/SportsStore/SportsStore/SportsStore/obj/Debug/netcoreapp2.1/SportsStore.csprojResolveAssemblyReference.cache
+/Users/vaibhavdeoda/Projects/SportsStore/SportsStore/SportsStore/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Components/NavigationMenu/Default.g.cshtml.cs
