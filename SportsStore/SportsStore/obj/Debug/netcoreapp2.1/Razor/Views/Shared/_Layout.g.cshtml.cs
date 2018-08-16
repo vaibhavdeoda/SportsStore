@@ -54,7 +54,7 @@ using SportsStore.Models.ViewModels;
             WriteLiteral("<!DOCTYPE html>\n\n<html>\n");
             EndContext();
             BeginContext(24, 467, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cfda84a5ae5845db82d6f30e422bf769", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a07e51dfe78f41689e4d49d9a353e5ce", async() => {
                 BeginContext(30, 61, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n");
                 EndContext();
@@ -77,7 +77,7 @@ using SportsStore.Models.ViewModels;
             WriteLiteral("\n    ");
             EndContext();
             BeginContext(496, 484, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "72846dfd15784682874ec0ca9ec7a2ca", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9adefa1fde21435ab2198593f892b64b", async() => {
                 BeginContext(502, 279, true);
                 WriteLiteral(@"
             <div class=""navbar navbar-inverse bg-inverse"" role=""navigation"">

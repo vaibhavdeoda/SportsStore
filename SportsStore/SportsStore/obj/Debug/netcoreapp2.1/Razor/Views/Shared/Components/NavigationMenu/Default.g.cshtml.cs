@@ -57,7 +57,7 @@ using SportsStore.Models.ViewModels;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(30, 192, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "52e0678ea8fe425d9678657a7f2e9c6e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4134a509c4a6427fa9cfb9ac9ed5ebe1", async() => {
                 BeginContext(206, 12, true);
                 WriteLiteral("\r\n    Home\r\n");
                 EndContext();
@@ -105,7 +105,7 @@ AddHtmlAttributeValue(" \r\n   ", 53, ViewBag.SelectedCategory == null ? "btn-pr
             WriteLiteral("    ");
             EndContext();
             BeginContext(270, 260, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8d65716df720432a83264c375fb0ddb3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "423f7241fa034d829573ef453e0577f7", async() => {
                 BeginContext(505, 6, true);
                 WriteLiteral("\r\n    ");
                 EndContext();
