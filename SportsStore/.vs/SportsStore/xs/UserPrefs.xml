@@ -1,16 +1,15 @@
 ﻿<Properties StartupConfiguration="{1281E827-67E6-4EC9-8B2B-BB10C647A9D1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SportsStore/Controllers/ProductController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SportsStore/Views/Cart/Index.cshtml">
     <Files>
-      <File FileName="SportsStore/Startup.cs" Line="42" Column="39" />
-      <File FileName="SportsStore/Infrastructure/PageLinkTagHelper.cs" Line="29" Column="48" />
-      <File FileName="SportsStore/Views/Product/List.cshtml" Line="12" Column="1" />
-      <File FileName="SportsStore/Components/NavigationMenuViewComponent.cs" Line="25" Column="9" />
-      <File FileName="SportsStore/Views/_ViewImports.cshtml" Line="5" Column="1" />
-      <File FileName="SportsStore/Views/_ViewStart.cshtml" Line="1" Column="1" />
-      <File FileName="SportsStore/Views/Shared/_Layout.cshtml" Line="27" Column="1" />
-      <File FileName="SportsStore/Views/Shared/ProductSummary.cshtml" Line="1" Column="1" />
-      <File FileName="SportsStore/Views/Shared/Components/NavigationMenu/Default.cshtml" Line="9" Column="5" />
-      <File FileName="SportsStore/Controllers/ProductController.cs" Line="30" Column="36" />
+      <File FileName="SportsStore/Models/Cart.cs" Line="3" Column="1" />
+      <File FileName="SportsStore/Infrastructure/URLExtensions.cs" Line="12" Column="2" />
+      <File FileName="SportsStore/Views/_ViewImports.cshtml" Line="6" Column="1" />
+      <File FileName="SportsStore/Views/Shared/ProductSummary.cshtml" Line="28" Column="1" />
+      <File FileName="SportsStore/Startup.cs" Line="36" Column="30" />
+      <File FileName="SportsStore/Controllers/CartController.cs" Line="34" Column="39" />
+      <File FileName="SportsStore/Infrastructure/SessionExtensions.cs" Line="21" Column="1" />
+      <File FileName="SportsStore/Models/ViewModels/CartIndexViewModel.cs" Line="2" Column="1" />
+      <File FileName="SportsStore/Views/Cart/Index.cshtml" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
